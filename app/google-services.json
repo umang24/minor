@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "39709333",
+    "firebase_url": "https://bookmytour-bbaaf.firebaseio.com",
+    "project_id": "bookmytour-bbaaf",
+    "storage_bucket": "bookmytour-bbaaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39709333:android:b22e742be94bf0a4",
+        "android_client_info": {
+          "package_name": "com.example.umang.afinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39709333-jhd46k4i4qqet1bd7cpkpa8ocoh387ks.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.umang.afinal",
+            "certificate_hash": "ED4388B232076B2C222FFC9A53D6898A6160D13A"
+          }
+        },
+        {
+          "client_id": "39709333-omgf53pu92qmun2oe3hba01u5dao1b0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGx_DACRyMjP_uhD0vTeD9vx5owwE0YlU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39709333-omgf53pu92qmun2oe3hba01u5dao1b0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
